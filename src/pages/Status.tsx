@@ -34,7 +34,7 @@ export function Status() {
 
       <Tweet
         content={
-          "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore vero quis nemo hic aliquam. Ut debitis quia omnis ad cupiditate praesentium cumque voluptates animi soluta explicabo fugit voluptatem, doloribus minus."
+          "Responda a esse tweet da maneira desejada só para testar!!."
         }
       />
 
