@@ -34,7 +34,7 @@ export function Status() {
 
       <Tweet
         content={
-          "Responda a esse tweet da maneira desejada só para testar!!."
+          "Responda a esse tweet da maneira desejada só para testar!!!."
         }
       />
 

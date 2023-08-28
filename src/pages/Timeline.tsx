@@ -11,7 +11,7 @@ export function Timeline() {
     "Home Page do Twitter realizada em React!!!",
     "Teste a página clicando no link da vercel",
     "Você pode testar responder um tweet",
-    "Possui responsividade também"
+    "Possui responsividade também!"
   ]);
 
   function createNewTweet(event: FormEvent) {
